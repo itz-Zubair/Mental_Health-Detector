@@ -1,0 +1,24 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+venv/
+env/
+
+# Data (large)
+data/
+!data/.gitkeep
+
+# Models (large)
+models/*.pkl
+models/bert_mental_health/*.safetensors
+models/bert_mental_health/*.bin
+
+# IDE
+.vscode/
+.idea/
+.sfdx/
+
+# Jupyter
+.ipynb_checkpoints

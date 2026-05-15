@@ -1,0 +1,35 @@
+# Core Data Science
+numpy>=1.26.4
+pandas>=2.1.0
+scikit-learn>=1.4.0
+
+# NLP Libraries
+nltk>=3.8.1
+spacy>=3.7.0
+transformers>=4.40.0
+torch>=2.2.0
+sentencepiece>=0.2.0
+
+# Sentiment Analysis
+vaderSentiment==3.3.2
+
+# Word Embeddings
+gensim>=4.3.2
+
+# Imbalanced Data
+imbalanced-learn>=0.12.0
+
+# Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+plotly>=5.18.0
+wordcloud>=1.9.3
+
+# Dashboard
+streamlit>=1.30.0
+
+# Utilities
+tqdm>=4.66.0
+requests>=2.31.0
+kaggle>=1.6.0
+jupyter>=1.0.0
