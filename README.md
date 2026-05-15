@@ -147,6 +147,3 @@ mental-health-nlp/
 
 ---
 
-## 👨‍💻 Author
-
-**Muhammad Ashhad Khan**
